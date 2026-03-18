@@ -162,6 +162,6 @@ GUI for yt-dlp
 | [YT-DLP GUI](https://github.com/thesophile/yt-downloader) | A gui for the famous yt-dlp downloader | Python
 
 
-And more at [thesophile](https://github.com/thesophile)
+And more at [abhinavpbabu](https://github.com/abhinavpbabu)
 
 
