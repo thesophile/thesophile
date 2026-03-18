@@ -1,4 +1,4 @@
-# Hi, I'm Thesophike
+# Hi, I'm Thesophile
 
 Welcome to my GitHub profile! 
 
