@@ -1,10 +1,10 @@
-# Hi, I'm Abhinav Babu
+# Hi, I'm Thesophike
 
 Welcome to my GitHub profile! 
 
 ## About Me
 
-I’m Abhinav. I make websites because I have nothing better to do.
+I’m thesophile. I make websites because I have nothing better to do.
 
 I’m building a [site](https://manim.runwith.cloud) that renders Manim videos because apparently I enjoy pain. I also make a few [YouTube videos](https://youtube.com/@the_sophile) when my brain decides to cooperate. Between those two, I get to turn abstract ideas into something that actually looks and works like it should, which is close enough to “beautiful” for me.
 
