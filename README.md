@@ -30,6 +30,10 @@ I feel like I am ready for more. Contact me at  [abhinavbabu.contact@gmail.com](
 * UI/UX fundamentals
 * Testing basics
 
+## Achievements
+
+- Contributed [bug fix](https://github.com/django-q2/django-q2/pull/319) to django-q2 
+- Made multiple Open source projects and hosted websites in AWS.
 
 ## Projects
 
