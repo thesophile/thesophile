@@ -13,6 +13,10 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
  
 Oh, and did I mention that I am a caffeine addict? [Buy me a coffee](https://ko-fi.com/abhinavbabu) to support my work.
 
+## Achievements
+- Contributed to Django-q2, The Queue system of Django.
+- Created and deployed websites helping thousands a day.
+
 ## Skills
 
 * Web development
