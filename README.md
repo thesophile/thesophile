@@ -9,7 +9,7 @@ My name is Abhinav p Babu. I am a Web developer and the founder of Runwith.
 
 [Runwith](https://manim.runwith.cloud) is an open-source web interface that runs any python library in a container without any installation or setup (More about it [Here](https://github.com/thesophile/runwith)). I also make a few [YouTube videos](https://youtube.com/@the_sophile) when my brain decides to cooperate. Between those two, I get to turn abstract ideas into something that actually looks and works like it should, which is close enough to “beautiful” for me.
 
-If you’re here to judge, borrow, or quietly inspect the chaos I call projects, feel free. The code holds up.
+If you’re here to judge, borrow, or quietly inspect the chaos I call projects, feel free. The code holds up. 
  
 Oh, and did I mention that I am a caffeine addict? [Buy me a coffee](https://ko-fi.com/abhinavbabu) to support my work.
 
@@ -185,4 +185,4 @@ And more at [abhinavpbabu](https://github.com/abhinavpbabu)
 
 ## Contact
 
-📬 [Mail](mailto:abhinavbabu.contact@gmail.com)
+📬 [Mail](mailto:abhinavbabu.contact@gmail.com) | 🔗 [Linkedin](www.linkedin.com/in/abhinav-p-babu)
