@@ -183,3 +183,6 @@ GUI for yt-dlp
 
 And more at [abhinavpbabu](https://github.com/abhinavpbabu)
 
+## Contact
+
+📬 [Mail](mailto:abhinavbabu.contact@gmail.com)
