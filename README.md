@@ -13,11 +13,11 @@ If you’re here to judge, borrow, or quietly inspect the chaos I call projects,
  
 Oh, and did I mention that I am a caffeine addict? [Buy me a coffee](https://ko-fi.com/abhinavbabu) to support my work.
 
-## Achievements
+## Achievements 🎖️
 - Contributed to Django-q2, The Queue system of Django.
 - Created and deployed websites helping thousands a day.
 
-## Skills
+## Skills ⚙️
 
 * Web development
 * Web designing
@@ -36,15 +36,7 @@ Oh, and did I mention that I am a caffeine addict? [Buy me a coffee](https://ko-
 * Testing basics
 
 
-<!--- 🔭 I’m currently working on personal projects and exploring new technologies.
-- 🌱 I’m learning more about Flutter and mobile app development.
-- 💬 Feel free to reach out if you want to discuss coding, mathematics, or collaboration opportunities!
-- 📫 You can connect with me on [Discord](https://discord.com/users/1005716675984883723) or email me at [abhinavbabu.contact@gmail.com](mailto:abhinavbabu.contact@gmail.com).
--->
-
-
-
-## Projects
+## Projects 💡
 
 ### 🔹 Runwith
 
@@ -190,5 +182,4 @@ GUI for yt-dlp
 
 
 And more at [abhinavpbabu](https://github.com/abhinavpbabu)
-
 
